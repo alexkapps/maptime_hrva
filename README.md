@@ -15,9 +15,10 @@ Basic Viz with QGIS
 Example
 
 - Show data sources (website, where we got it)
+- https://docs.google.com/document/d/19T7I4sv7CXr2L8Qvv0_YTzpT77gROfjvUFhZAdYgQT8/edit?usp=sharing
+
 - These are our inputs
 - This is an output
-- 
 
 
 
