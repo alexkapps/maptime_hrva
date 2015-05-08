@@ -2,6 +2,7 @@
 Data and ideas for the may maptime at AidData
 
 Basic Viz with QGIS
+-
 
 - mention plugins are easy and awesome
 - explain shp and tiff
@@ -13,6 +14,7 @@ Basic Viz with QGIS
 - bring in open street map layer (open layers plugin ; plugin demo)
 
 Example
+-
 
 - Show data sources (website, where we got it)
 
