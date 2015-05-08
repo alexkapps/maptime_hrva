@@ -23,7 +23,6 @@ https://docs.google.com/document/d/19T7I4sv7CXr2L8Qvv0_YTzpT77gROfjvUFhZAdYgQT8/
 
 - Show processed data product/map
 - Proceed with brief tutorial
-- 
 
 3. Open Work Time
 -
