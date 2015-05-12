@@ -3,7 +3,7 @@
 # use jq to filter JSON to just google's formatted address, lat, lng
 function geocode {
 	a="'"
-	awk -F'\t' '{OFS="\t";if($9 !~ /^$/)print $1,$9}'|\
+	awk -F'\t' '{OFS="\t";if($2 !~ /^$/)print $1,$2}'|\
 	parallel --gnu --colsep '\t' --header : '
 	url_encode=$( 
 	echo {2} |\
