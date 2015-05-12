@@ -1,13 +1,39 @@
 # maptime_hrva
+#### Wed May 13 6pm 427 Scotland St, Williamsburg, VA, 1st Floor
+
+### Maptime!
+
+1. Basic Viz with [QGIS](http://www.qgis.org/en/site/)
+  1. easy and awesome plugins
+    1. OpenLayers
+    1. TableManager
+    1. geosearch
+    1. OpenStreetMap
+    1. heatmap
+    1. zonal statistics plugin
+  1. what are .shp, .tif and how do I use them? 
+    1. let's load an example of each: aerial photography and riot points for Baltimore
+  1. removing early stumbling blocks
+    1. what's an FTP? what is .tar.gz? .tar.bz?
+2. Baltimore Riots, Arrests, and Fatal Encounters
+  1. show inputs
+  1. show analysis
+  1. show outputs
+3. Open Work Time
+  1. check out the data sources and examples below if you need inspiration
+  1. check out super easy to use web tools like
+    1. [Libra](https://libra.developmentseed.org/)
+    1. [Census Reporter](http://censusreporter.org/)
+
 
 ### Data for Baltimore
 
 Download these:
 
-* [National Elevation Dataset, 3m](bit.ly/baltimore_ned3m)
+* [National Elevation Dataset, 3m](http://bit.ly/baltimore_ned3m)
   * public domain
   * courtesy of the [U.S. Geological Survey](http://ned.usgs.gov/)
-* [National Agriculture Imagery Program, 2013](bit.ly/baltimore_NAIP2013)
+* [National Agriculture Imagery Program, 2013](http://bit.ly/baltimore_NAIP2013)
   * public domain, from [USDA](https://catalog.data.gov/dataset/national-geospatial-data-asset-ngda-naip-imagery-2015-2016-planned-acquisition)
 
 These come with the repo:
@@ -56,31 +82,26 @@ Open data in general:
   * [catalog](http://www.data.gov/open-gov/) of OpenGov sites from data.gov
   * don't forget [state](http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/) and [municipal](http://www.cityofchicago.org/city/en/depts/doit/provdrs/gis.html) GIS agencies!
 
-Bit of inspiration here:
-http://www.theguardian.com/news/datablog/interactive/2011/aug/10/poverty-riots-mapped
+
+### Inspiration
+
+  * [Guardian London riot map with choropleth](http://www.theguardian.com/news/datablog/interactive/2011/aug/10/poverty-riots-mapped)
+  * [GDELT protest map, global, using timestamps](http://gdeltproject.org/globaldashboard/)
+  * [map showing small scale of 2015 riots](http://www.vocativ.com/usa/justice-usa/2-maps-that-explain-the-baltimore-riots-1968-and-now/)
+
+Consider using an easy web mapping platform like [CartoDB](http://cartodb.com/).
+If you do spatial joins, or zonal statistics, and export a CSV from QGIS you can easy load it into [ChartBuilder](http://quartz.github.io/Chartbuilder/) to make a pretty chart.
 
 
 
 
 
 
-### misc
-TODO cleanup
-
-Data and ideas for the may maptime at AidData
+### for the presenters
 
 Biggie Presentation Markdown:
 https://docs.google.com/document/d/1u0-DTAl3oLPeQ1yKtrLV1yiUtRAO-3O_F2MB31H4nl8/edit
 
-
-1. Basic Viz with QGIS
--
-
-- mention plugins are easy and awesome
-- explain shp and tiff
-- dealing with compression formats and data sources (ftp / zip, gz, bz)
-- if you dont recognize a format, google it
-- loading an example vector and raster file (NAIP of Baltimore, Riot incident points)
 - Riot incident data ( https://www.google.com/maps/d/u/0/viewer?mid=zYw5SbHYVKBM.kLaJN-znQs40 )
 
 ```
@@ -93,19 +114,5 @@ Community updated until about 11:30pm
 Late night updates by @Ryan_J_Smith
 ```
 
-- Baltimore NAIP imagery (need to download ahead of time)
-- bring in open street map layer (open layers plugin ; plugin demo)
-
-2. Example
--
-
-- Show data sources (website, where we got it)
-
 Data links:
 https://docs.google.com/document/d/19T7I4sv7CXr2L8Qvv0_YTzpT77gROfjvUFhZAdYgQT8/edit?usp=sharing
-
-- Show processed data product/map
-- Proceed with brief tutorial
-
-3. Open Work Time
--
