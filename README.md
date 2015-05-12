@@ -94,6 +94,7 @@ Open data in general:
   * [Guardian London riot map with choropleth](http://www.theguardian.com/news/datablog/interactive/2011/aug/10/poverty-riots-mapped)
   * [GDELT protest map, global, using timestamps](http://gdeltproject.org/globaldashboard/)
   * [map showing small scale of 2015 riots](http://www.vocativ.com/usa/justice-usa/2-maps-that-explain-the-baltimore-riots-1968-and-now/)
+  * [NYT map of US Census](http://projects.nytimes.com/census/2010/map) including race/ethnicity dot density map
 
 Consider using an easy web mapping platform like [CartoDB](http://cartodb.com/).
 If you do spatial joins, or zonal statistics, and export a CSV from QGIS you can easy load it into [ChartBuilder](http://quartz.github.io/Chartbuilder/) to make a pretty chart.
