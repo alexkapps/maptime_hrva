@@ -1,6 +1,10 @@
 # maptime_hrva
 Data and ideas for the may maptime at AidData
 
+Biggie Presentation Markdown:
+https://docs.google.com/document/d/1u0-DTAl3oLPeQ1yKtrLV1yiUtRAO-3O_F2MB31H4nl8/edit
+
+
 1. Basic Viz with QGIS
 -
 
