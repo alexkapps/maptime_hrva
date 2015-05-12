@@ -10,6 +10,13 @@ Data and ideas for the may maptime at AidData
 - if you dont recognize a format, google it
 - loading an example vector and raster file (NAIP of Baltimore, Riot incident points)
 - Riot incident data ( https://www.google.com/maps/d/u/0/viewer?mid=zYw5SbHYVKBM.kLaJN-znQs40 )
+
+```
+Map initiated by @VinylFox
+Community updated until about 11:30pm
+Late night updates by @Ryan_J_Smith
+```
+
 - Baltimore NAIP imagery (need to download ahead of time)
 - bring in open street map layer (open layers plugin ; plugin demo)
 
