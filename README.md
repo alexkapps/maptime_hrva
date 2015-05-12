@@ -28,7 +28,7 @@
 
 ### Data for Baltimore
 
-Download these:
+**Download these:**
 
 * [National Elevation Dataset, 3m](http://bit.ly/baltimore_ned3m)
   * public domain
@@ -36,7 +36,9 @@ Download these:
 * [National Agriculture Imagery Program, 2013](http://bit.ly/baltimore_NAIP2013)
   * public domain, from [USDA](https://catalog.data.gov/dataset/national-geospatial-data-asset-ngda-naip-imagery-2015-2016-planned-acquisition)
 
-These come with the repo:
+* [Open Street Map export -from Mapzen- for the city of Baltimore; lots of infrastructure data here!](https://drive.google.com/file/d/0B4P6kViJoyc9Rks2aGJiLWtuR1U/view?usp=sharing)
+  * https://mapzen.com/metro-extracts/
+**These come with the repo:**
 
 * [FIT data](http://www.baltimorepolice.org/fit-investigation-team)
   * compiled by the Baltimore Police Department Force Investigation Team, 2015
@@ -59,14 +61,14 @@ These come with the repo:
 
 Note that these lists are absurdly far from comprehensive!
 
-for the US:
+**for the US:**
 
   * [USDA Geospatial Gateway](https://gdg.sc.egov.usda.gov/)
   * [data.gov/geospatial](https://www.data.gov/geospatial/)
   * climate: [PRISM](http://www.prism.oregonstate.edu/)
   * American Community Survey: [Census Reporter](http://censusreporter.org/)
 
-for the world:
+**for the world:**
 
   * [EarthExplorer](http://earthexplorer.usgs.gov/)
   * [Libra](https://libra.developmentseed.org/)
@@ -83,7 +85,7 @@ for the world:
     * quite incomplete - needs your help!
   * roads, parks, trails, buildings, etc, etc, etc: [OpenStreetMap](https://www.openstreetmap.org)
 
-Open data in general:
+**Open data in general:**
 
   * [catalog](http://www.data.gov/open-gov/) of OpenGov sites from data.gov
   * don't forget [state](http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/) and [municipal](http://www.cityofchicago.org/city/en/depts/doit/provdrs/gis.html) GIS agencies!
