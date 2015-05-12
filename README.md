@@ -50,6 +50,10 @@ These come with the repo:
 * [BPD Arrests](https://data.baltimorecity.gov/Public-Safety/BPD-Arrests/3i3v-ibrt)
   * these are public arrest records released at data.baltimorecity.gov
   * they come with this notice: "This data represents the top arrest charge of those processed at Baltimore's Central Booking & Intake Facility. This data does not contain those who have been processed through Juvenile Booking."
+* [Baltimore Urban Tree Canopy (UTC)](http://gis.w3.uvm.edu/utc/) assessment fine scale land-cover classification made for the US Forest Service, 2009
+  * data from [UVM Spatial Analysis Lab](http://www.uvm.edu/rsenr/sal/)
+* US Census 2010
+* [Baltimore Riots](https://www.google.com/maps/d/u/0/viewer?mid=zYw5SbHYVKBM.kLaJN-znQs40), a Google MyMap initiated by @VinylFox and @Ryan_J_Smith
 
 ### Downloading Data Yourself
 
@@ -73,6 +77,8 @@ for the world:
   * climate: [WorldClim](http://www.worldclim.org/)
   * elevation: [SRTM](http://srtm.usgs.gov/)
   * international censuses: [IPUMS](https://international.ipums.org/international/)
+  * forest cover change, 2000-2012 by [Hansen et al., *Science* 2013](http://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.1.html)
+    * visualized [here](http://earthenginepartners.appspot.com/science-2013-global-forest)
   * addresses: [openAddresses](http://openaddresses.io/)
     * quite incomplete - needs your help!
   * roads, parks, trails, buildings, etc, etc, etc: [OpenStreetMap](https://www.openstreetmap.org)
