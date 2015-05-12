@@ -16,6 +16,10 @@ https://docs.google.com/document/d/1u0-DTAl3oLPeQ1yKtrLV1yiUtRAO-3O_F2MB31H4nl8/
 - Riot incident data ( https://www.google.com/maps/d/u/0/viewer?mid=zYw5SbHYVKBM.kLaJN-znQs40 )
 
 ```
+Map of Baltimore riot activity from afternoon of 4-27-2015 to morning of 4-28-2015.
+
+Activity was manually pulled from police scanners, transcripts of police scanners, tweets (official and unofficial). Mapped points are by no means exhaustive.
+
 Map initiated by @VinylFox
 Community updated until about 11:30pm
 Late night updates by @Ryan_J_Smith
