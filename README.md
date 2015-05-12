@@ -62,6 +62,11 @@
 
 Note that these lists are absurdly far from comprehensive!
 
+** Baltimore:**
+
+* anything from https://data.baltimorecity.gov/Geographic/
+  * like https://data.baltimorecity.gov/Geographic/crime_cameras/jit3-cud7
+
 **for the US:**
 
   * [USDA Geospatial Gateway](https://gdg.sc.egov.usda.gov/)
@@ -101,7 +106,6 @@ Note that these lists are absurdly far from comprehensive!
 
 Consider using an easy web mapping platform like [CartoDB](http://cartodb.com/).
 If you do spatial joins, or zonal statistics, and export a CSV from QGIS you can easy load it into [ChartBuilder](http://quartz.github.io/Chartbuilder/) to make a pretty chart.
-
 
 
 
