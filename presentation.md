@@ -4,8 +4,10 @@
 # Maptime HRVA
 ### 2015-05-13, Williamsburg, VA
 ---
-
-
+# goals for today
+1. 
+1.
+1.
 ---
 # open data
 
