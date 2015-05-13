@@ -20,11 +20,13 @@
 ---
 ### you will
 1. perform attribute joins
-  1. eg, join census tables by geoid
+  1. eg, join census tables by geo_id
 1. perform spatial joins 
   1. eg, counts of arrests by census block group
 1. subset spatial data
   1. eg, find all homicides in the BPD arrest record
+1. reproject vector datasets
+  1. eg, between NAD83/UTM 18N and WGS84!
 ---
 ### you might choose to . . .
 1. use the American Community Survey (ACS) through censusreporter.org
@@ -44,6 +46,20 @@
   1. JSON ( hint: open with a text editor )
   1. TSV ( tab separated values - open in QGIS with TAB delimiter! )
 ---
+# summary of example workflow
+1. download NAIP imagery
+1. download NED DEM (digital elevation model)
+1. download censusreporter.org shapefile
+1. download censusreporter.org CSV for *another* variable
+1. open QGIS, add censusreporter inputs
+1. right click -> properties -> joins
+1. join CSV to shp using census geo_id field
+1. delete Baltimore wide polygon with QGIS edit session
+  1. not needed! obscures view!
+1. right click -> save as -> geoJSON
+  1. just so we can keep nice field names
+1. right click -> styles -> choose variable and color ramp
+---
 
 # Getting started:
 
@@ -59,15 +75,24 @@ lots of free and open data is available online
 
 OSM (https://www.openstreetmap.org)
 
+![osm](https://raw.githubusercontent.com/KAPPS-/maptime_hrva/master/img/osm_screen1.png)
 ---
 
-![https://raw.githubusercontent.com/KAPPS-/maptime_hrva/master/img/osm_screen1.png]
+OSM (https://www.openstreetmap.org)
+
+![osm](https://raw.githubusercontent.com/KAPPS-/maptime_hrva/master/img/osm_screen_zoomed.png)
 
 ---
 
 Census Reporter [http://censusreporter.org](/data/map/?table=B02001&geo_ids=05000US24510,150|05000US24510&primary_geo_id=05000US24510#column|B19001002,sumlev|150)
 
-SCREENSHOT
+![censusreporter](https://raw.githubusercontent.com/KAPPS-/maptime_hrva/master/img/census_reporter_example.png)
+
+---
+
+Crowd sourced data curated by @VinylFox and @Ryan_J_Smith
+
+![bmore_riots](https://raw.githubusercontent.com/KAPPS-/maptime_hrva/master/img/riots_google_maps.png)
 
 ---
 
