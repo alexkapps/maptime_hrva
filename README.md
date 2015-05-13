@@ -13,8 +13,6 @@
     1. zonal statistics plugin
   1. what are .shp, .tif and how do I use them? 
     1. let's load an example of each: aerial photography and riot points for Baltimore
-  1. removing early stumbling blocks
-    1. what's an FTP? what is .tar.gz? .tar.bz?
 2. Baltimore Riots, Arrests, and Fatal Encounters
   1. show inputs
   1. show analysis
