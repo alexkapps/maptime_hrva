@@ -3,6 +3,8 @@
 ---
 # Maptime HRVA
 ### 2015-05-13, Williamsburg, VA
+
+![HRVA](https://pbs.twimg.com/profile_images/494283683092635648/EEb4qqq-.jpeg)
 ---
 # goals for today
 ### we will show you
@@ -10,7 +12,12 @@
     1. riots
     1. arrests
     1. fatal encounters with police
-  1. spatial data sources for the US and the world
+  
+![riots](https://timedotcom.files.wordpress.com/2015/04/baltimore-cover-final.jpg?quality=65&strip=color&w=567)
+- Attribution: TIME magazine
+
+1. spatial data sources for the US and the world
+
 ---
 # goals for today
 ### you will
@@ -34,6 +41,8 @@
   1. heatmaps of incident points
   1. spatial join crime/riots/arrests on census block groups
 ---
+#[heatmap of homicides](http://cdb.io/1E6kHdR)
+---
 ### if we get to it ...
 1. summarize high resolution land-cover by census blocks
   1. eg, percent tree over by census blocks
@@ -46,33 +55,22 @@
   1. JSON ( hint: open with a text editor )
   1. TSV ( tab separated values - open in QGIS with TAB delimiter! )
 ---
-# summary of example workflow
-1. download NAIP imagery
-1. download NED DEM (digital elevation model)
-1. download censusreporter.org shapefile
-1. download censusreporter.org CSV for *another* variable
-1. open QGIS, add censusreporter inputs
-1. right click -> properties -> joins
-1. join CSV to shp using census geo_id field
-1. delete Baltimore wide polygon with QGIS edit session
-  1. not needed! obscures view!
-1. right click -> save as -> geoJSON
-  1. just so we can keep nice field names
-1. right click -> styles -> choose variable and color ramp
----
 
 # Getting started:
 
 ---
 
-1. download the data
+download the data
 
 ---
 
 lots of free and open data is available online
+---
+like [police camera locations](https://data.baltimorecity.gov/Public-Safety/Crime-Camera/nxbm-dfav)
 
 ---
-
+or [homicides](https://data.baltimorecity.gov/Public-Safety/Homicides/9h5s-7d88)
+---
 OSM (https://www.openstreetmap.org)
 
 ![osm](https://raw.githubusercontent.com/KAPPS-/maptime_hrva/master/img/osm_screen1.png)
@@ -98,7 +96,7 @@ Crowd sourced data curated by @VinylFox and @Ryan_J_Smith
 
 [USDA NAIP Imagery](http://www.fsa.usda.gov/FSA/apfoapp?area=home&subject=prog&topic=nai)
 
-SCREENSHOT
+![NAP](https://raw.githubusercontent.com/KAPPS-/maptime_hrva/master/img/NAIP_screen.png)
  	
 ---
 
@@ -113,12 +111,14 @@ please download the zip file of this workshop at our github repo: [github.com/KA
 
 ---
 
+To learn how to bring spatial data into a GIS we will make a simple map with multiple data types:
 
+---
 
+![demomap](https://raw.githubusercontent.com/KAPPS-/maptime_hrva/master/img/demo_simple.png)
+![legend](https://raw.githubusercontent.com/KAPPS-/maptime_hrva/master/img/demo_legend.png)
 
-
-
-
+---
 
 
 
@@ -126,6 +126,23 @@ please download the zip file of this workshop at our github repo: [github.com/KA
 # appendix
 ---
 # BONUS POINTS
+---
+# summary of example workflow
+1. download NAIP imagery
+1. download NED DEM (digital elevation model)
+1. download censusreporter.org shapefile
+1. download censusreporter.org CSV for *another* variable
+1. open QGIS, add censusreporter inputs
+1. right click -> properties -> joins
+1. join CSV to shp using census geo_id field
+1. delete Baltimore wide polygon with QGIS edit session
+  1. not needed! obscures view!
+1. right click -> save as -> geoJSON
+  1. just so we can keep nice field names
+1. right click -> styles -> choose variable and color ramp
+1. overlay points of interest like riot incidents, arrests, homicides, police cameras, etc
+---
+# [CartoDB](cartodb.com) - make web maps so fast you won't believe it
 ---
 # [OpenRefine](http://openrefine.org/) for the win
 1. text faceting
