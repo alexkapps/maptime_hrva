@@ -1,0 +1,966 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	
+	<title>Mrs. Kimberly Lane Weathers&nbsp;&nbsp;&nbsp;&nbsp;(MARTINEZ, Ga.) 090104 - The Augusta Chronicle</title>
+	<meta http-equiv="pragma" content="no-cache" />
+	<meta http-equiv="expires" content="Fri, 1 Jan 1999 00:01:00 GMT">
+	<link href="/css/v4.5/story.css" rel="stylesheet" type="text/css">
+
+	<script language="javascript" src="/js/story/story.js"></script>
+
+	<!-- Frame Buster -->
+	<SCRIPT LANGUAGE="JavaScript" type="text/javascript">
+	<!--
+			if (top.location != self.location) {top.location = self.location;}
+	-->
+	</SCRIPT>
+	<!-- End Frame Buster -->
+
+	<!-- Site Menu -->
+	<script LANGUAGE="JavaScript" type="text/javascript">
+		dom = (document.getElementById) ? true : false;
+		var src = (dom) ? '/js/fw_menu_dom.js' : '/js/fw_menu.js';
+		document.write("<scr"+"ipt src="+src+"><\/scr"+"ipt>");
+	</script>
+	<script language="JavaScript1.2" src="/js/siteMenu.js"></script>
+	<!-- End Site Menu -->
+
+	<!-- Page Tag Info -->
+	<script>
+		var t_Server = 'AugustaChronicle.com';
+		var t_Channel = 'News';
+		var t_Section = 'Obits';
+		var t_SubSection = '';
+		var t_SubSubSection = '';
+		var t_URL = t_Server.replace(/[^A-Z]/g, '')+((t_Channel != '')?'_'+t_Channel.substring(0, 5)+((t_Section != '')?'_'+t_Section.substring(0, 5)+((t_SubSection != '')?'_'+t_SubSection.substring(0, 5)+((t_SubSubSection != '')?'_'+t_SubSubSection.substring(0, 5):''):''):'') :'')+'_'+window.location.pathname;
+		var t_OAS = 'www.augustachronicle.com'+'/'+t_URL.substring(0, t_URL.indexOf('_/'))+'/index.shtml';
+		var t_Positions = 'Middle1,Right,Top,x01,x03,x04,x05,x08,x31,x77,x78,x80';
+	var t_MDW_Cat="Community Agate";     //  MDW_Cat
+	var t_MDW_Sub_Cat="97010 CAObituaries";        // MDW_Sub_Cat
+</script>
+<SCRIPT SRC="http://an.tacoda.net/an/11844/slf.js" LANGUAGE="JavaScript"></SCRIPT><SCRIPT LANGUAGE="JavaScript">TCDA("cc=ABM;sc=Community: Obituaries;da;dt");</SCRIPT>
+
+	<!-- /Page Tag Info -->
+<script type="text/javascript" src="/includes/yahoo-ads/yahoo.js"></script>
+	<!------------- OAS SETUP BEGINS ------------>
+	<script LANGUAGE=JavaScript>
+		<!--
+		//configuration
+		OAS_url = 'http://ads.augusta.com/RealMedia/ads/';
+		//OAS_sitepage = 'window.location.hostname + window.location.pathname;
+		OAS_sitepage = t_OAS;
+		OAS_listpos = t_Positions;
+		OAS_query = '';
+		OAS_target = '';
+		//end of configuration
+		OAS_version = 10;
+		OAS_rn = '001234567890'; OAS_rns = '1234567890';
+		OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring(2, 11);
+		function OAS_NORMAL (pos) {
+		document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+		document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" Border=1></A>');
+		}
+		//-->
+	</SCRIPT>
+	<script LANGUAGE=JavaScript1.1>
+		<!--
+		OAS_version = 11;
+		if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+		OAS_version = 10;
+		if (OAS_version >= 11)
+		document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
+		</script>		
+		<script LANUGAGE=JavaScript>
+		document.write('');
+		function OAS_AD(pos) {
+		if (OAS_version >= 11)
+		OAS_RICH(pos);
+		else
+		OAS_NORMAL(pos);
+		}
+	</SCRIPT>
+	<!------------- OAS SETUP END ------------>
+
+
+                                                                                                                     </head>
+
+<body><script type="text/javascript" src="http://chronicle.augusta.com/js/aug_ad_global.js"></script>	<div style="display:none;"><script>augAd.drawAd('x31');</script></div>
+
+	<script language="JavaScript1.2">fwLoadMenus();</script>
+
+<!-- Begin Omniture Information -->
+<!-- SiteCatalyst code version: G.5.
+Copyright 1997-2003 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="http://chronicle.augusta.com/jscript/omni.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+var s_pageName=t_URL;
+var s_server=t_Server;
+var s_channel=t_Channel;
+var s_pageType=""
+var s_prop1= (omni_gender != null) ? omni_gender : '';
+var s_prop2= (omni_zipcode != null) ? omni_zipcode : '';
+var s_prop3= (omni_username != null) ? omni_username : '';
+var s_prop4= (omni_agegroup != null) ? omni_agegroup : '';
+var s_prop5=t_Section;
+var s_prop6=t_SubSection;
+var s_prop7=t_SubSubSection;
+var s_prop8="";
+var s_prop9="";
+var s_prop10="";
+// s_prop 11 - 20 dedicated for MDW Corporate
+var s_prop11=reg_gender; // Gender
+var s_prop12=reg_zipcode; // Zip Code
+var s_prop13=reg_age_range;   // Age
+var s_prop14=reg_subscriber;   // Subscriber
+var s_prop15="SE";    // MDW_Region
+var s_prop16="Metro";    //  MDW_Group
+var s_prop17=t_MDW_Cat;     //  MDW_Cat
+var s_prop18=t_MDW_Sub_Cat;        // MDW_Sub_Cat
+var s_prop19="";
+var s_prop20="";
+
+/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
+//--></script><script language="JavaScript" src="http://chronicle.augusta.com/jscript/s_code_remote.js"></script>
+<!-- End SiteCatalyst code version: G.9. -->
+<!-- End Omniture Information -->
+
+<div id="page_c">
+
+	
+<script type="text/javascript" src="http://chronicle.augusta.com/js/mobile.js"></script>
+
+<style type="text/css">
+	#network a:hover {
+    text-decoration: underline;
+	}
+	#network {
+		margin:0;
+		width:768px;
+		height:23px;
+		background-color:#333333
+	}
+	#network_strip {
+		margin:0;
+		height:23px
+		font-size:11px;
+		color:#333333;
+		letter-spacing:normal;
+	}
+	#network a {
+		color: #BBBBAF;
+		text-decoration: none;
+	    font-family: arial, sans-serif;
+	    font-size: 11px;
+	} 
+	#network_text {
+		padding: 4px 0px 0px 20px;
+	} 
+</style>
+
+<div id="network">
+
+	<div id="network_strip">
+			<div id="network_text"> 
+			&nbsp;<a href="http://chronicle.augusta.com/"> Augusta Chronicle</a> &nbsp; |
+			&nbsp;<a href="http://newstimes.augusta.com/rd/ac-network.html"> CC News Times</a> &nbsp; |
+			&nbsp;<a href="http://augusta.com/"> Augusta.com</a> &nbsp; |
+			&nbsp;<a href="http://augustarealestate.com/"> Augusta Real Estate</a> &nbsp; |
+			&nbsp;<a href="http://autos.augusta.com/"> Augusta Autos</a> &nbsp; |
+			&nbsp;<a href="http://jobs.augusta.com/"> Augusta Jobs</a> &nbsp; |
+			&nbsp;<a href="http://csraapartmentfinder.com/"> Apartment Finder</a>
+
+			</div>
+	</div>
+
+</div>
+
+	
+	<!-- BEGIN MASTHEAD_STORY INCLUDE -->
+
+
+	<script src="http://augusta.com/shared/js/swfobject.js" type="text/javascript"></script>
+	
+	<script language="javascript" src="/js/breaking_news.js"></script>
+
+	<style>
+		#alert {
+			height: 23px;
+			width: 728px;
+			overflow: hidden;
+			margin: 9px auto 2px auto;
+			background-color: #EFEEE9;
+			background-image: url('/images/v4.5/masthead/inside/alert_bg.gif');
+			background-repeat: repeat-x;
+			color: #333333;
+		}
+		#alert .int {
+			width: 726px;
+			padding: 3px 0 0 0;
+			text-align: center;
+		}
+		#alert .label_breaking {
+			color: #962020;
+			font-size: 13px;
+			font-weight: bold;
+			text-transform: uppercase;
+		}
+		#alert .msg_breaking {
+			font-size: 13px;
+			font-weight: bold;
+		}
+		#alert a {
+			color:#000000;
+		}
+
+		#az-menu {padding:6px 0 6px 6px}
+		#az-menu .az-col {margin:0 3px 0 0;padding:0 0 0 3px;float:left;border-left:1px dotted #ccc;}
+		#az-menu .az-col-first {padding:0 3px 0 0;float:left;}
+		#az-menu a {display:block;width:125px;font-size:12px;color:#000;text-decoration:none;}
+		#az-menu a:hover {background-color:#dddddd;text-decoration:underline;}
+
+
+	</style>
+
+
+	<div id="masthead">
+
+		<div id="logobar">
+			
+			<div class="logo">
+				<a href="http://augustachronicle.com/"><img src="/images/v4.5/masthead/inside/inside_logo.gif" width=205 height=12 border=0 alt="The Augusta Chronicle" /></a>
+			</div>
+
+			<div class="search" style="float:right;width:510px;">
+
+				<div id="a-z" style="float:right;margin:2px 0 0 24px;">
+					<img id="az-toggle-img" src="http://chronicle.augusta.com/images/v4.5/masthead/az-toggle-off.gif" width="83" height="21" alt="A-Z Index" onmousedown="toggleAzMenu();" style="cursor:pointer;" />
+				</div>
+
+				<!--
+				<div style="float:right;margin:2px 0 0 36px;">
+					
+					<select id="az_index" onChange="window.open(this.options[this.selectedIndex].value,'_top')">
+						<SCRIPT LANGUAGE="JavaScript" type="text/javascript">a_to_z_index();</script>
+					</select>
+				</div>
+				-->
+
+				<div id="" style="float:right">
+
+					<script type="text/javascript">
+						var searchDirty = false;
+						var searchPhrase = 'Search';
+						function enterSearchBox () {
+							if (searchDirty == false) {
+								document.getElementById('search-box').value = '';
+							}
+						}
+						function exitSearchBox () {
+							if (document.getElementById('search-box').value == '') {
+								searchDirty = false;
+							}
+							if (searchDirty == false) {
+								document.getElementById('search-box').style.color = '#BF8164';
+								document.getElementById('search-box').value = searchPhrase;
+							}
+						}
+						function keydownSearchBox () {
+							document.getElementById('search-box').style.color = '#000';
+							searchDirty = true;
+						}
+						function toggleSearch () {
+							var engine;
+							for(var i = 0; i < document.frmSearch.engine.length; i++) {
+								if(document.frmSearch.engine[i].checked) {
+									engine =  document.frmSearch.engine[i].value;
+								}
+							}
+							if (engine == 'Fast') {
+								searchPhrase = 'Search us';
+							} else if (engine == 'Yahoo') {
+								searchPhrase = 'Search the Web';
+							}
+							if ( searchDirty==false ) {
+								document.getElementById('search-box').value = searchPhrase;
+							}
+						}
+						function submitSearch () {
+							if (searchDirty==false) {
+								document.getElementById('search-box').value = '';
+							}
+							return true;
+						}
+
+					</script>
+
+					<form name="frmSearch" onsubmit="return submitSearch();" action="http://search.augusta.com/index.php" method="get" >
+
+						<div style="float:left;margin:4px 6px 0 0;color:#86776F">
+							<input type="radio" name="engine" value="Fast" checked="true" style="vertical-align:middle" onclick="toggleSearch();" /> <span style="vertical-align:middle">Site</span> <input type="radio" name="engine" value="Yahoo" style="vertical-align:middle" onclick="toggleSearch();" /> <span style="vertical-align:middle">Web</span> 
+						</div>
+						<div style="float:left;height:24px;width:160px;overflow:hidden;background-image:url('/images/v4.5/masthead/front/searchbox_bg.gif');">
+							<div style="float:left;width:3px;height:23px;">
+								<img src="/images/v4.5/masthead/front/searchbox_left.gif" width=3 height=23 />
+							</div>
+							<input id="search-box" type="text" name="q" style="float:left;margin:4px 2px 0 2px;border:none;height:14px;width:117px;font-size:9px;color:#BF8164" value="Search" onfocus="enterSearchBox();" onblur="exitSearchBox();" onkeydown="keydownSearchBox();" />
+							<div style="float:left;width:3px;height:23px;">
+								<img src="/images/v4.5/masthead/front/searchbox_right.gif" width="3" height="23" />
+							</div>
+							<div style="float:left;">
+								<input type="image" src="/images/v4.5/masthead/front/go.gif" width="33" height="23" border="0" alt="Go" />
+							</div>
+							<div style="clear:both;"></div>
+						</div>
+						<img src="/images/v4.5/masthead/front/powered-by-yahoo2.gif" alt="Web results powered by Yahoo! Search" style="float:left;margin:2px 0 0 12px" width="108" height="21"/>
+
+					</form>
+
+				</div>
+
+				<div style="clear:both;"></div>
+
+			</div>
+
+		</div>
+
+		<div style="clear:both;height:11px;overflow:hidden"></div>
+
+		<div id="xad" >	
+			<div class="ad728_frame">
+				<div class="ad728_int">
+					<script>
+						augAd.drawAd('Top');
+					</script>
+				</div>
+			</div>
+		</div>
+
+
+		<!-- nav menu position -->
+		<script>
+			var navMenuY = 193;
+		</script>
+
+
+		<!-- BREAKING NEWS BOX -->
+			<script>alert_box_inside();</script>
+		<!-- end BREAKING NEWS BOX -->
+
+		<div style="clear:both;height:6px;overflow:hidden"></div>
+	</div>
+
+
+	<script type="text/javascript" src="http://autos.augusta.com/DEV3/js/utils.js" ></script>
+	<script type="text/javascript" src="/js/a-z.js" ></script>
+
+	<script>
+		window.onload = function () {
+			drawAzMenu();
+		};
+	</script>
+
+
+	<!-- END MASTHEAD_STORY INCLUDE -->
+
+	<div id="page" >
+
+		
+	<div id="page_a1">
+		<div id="page_d">
+			<div id="topnav" style="height:42px;">
+				<div class="subscribe">
+					<a href="http://chronicle.augusta.com/rd/subscribe.html?from=story"><img class="subscribe_img" src="http://chronicle.augusta.com/images/v4.5/topnav/subscribe.gif" width=133 height=39 border=0 alt="Subscribe" title="Subscribe to The Augusta Chronicle in print" /></a><br>
+				</div>
+				<div id="topnav_menu">
+					<div class="menubar">
+						<nobr>
+
+						<a href="/news/">
+						<img class="menuAOE" src="/images/v4.5/topnav/new/news.gif" width=35 height=10 border=0 alt="News" onmouseover="window.FW_showMenu(window.fw_menu_0,186,navMenuY);" onmouseout="FW_startTimeout();"  /></a>
+
+						<a href="/sports/">
+						<img class="menuAOE" src="/images/v4.5/topnav/new/sports.gif" width=49 height=10 border=0 alt="Sports" onmouseover="window.FW_showMenu(window.fw_menu_1,238,navMenuY);" onmouseout="FW_startTimeout();" /></a>
+
+						<a href="/business/">
+						<img class="menuAOE" src="/images/v4.5/topnav/new/business.gif" width=60 height=10 border=0 alt="Business" onmouseover="window.FW_showMenu(window.fw_menu_2,303,navMenuY);" onmouseout="FW_startTimeout();" /></a>
+
+						<a href="/entertainment_ss/">
+						<img class="menuAOE" src="/images/v4.5/topnav/new/entertainment.gif" width=102 height=9 border=0 alt="Entertainment" style="margin-bottom:1px;" onmouseover="window.FW_showMenu(window.fw_menu_3,376,navMenuY);" onmouseout="FW_startTimeout();"  /></a>
+
+						<a href="/living_ss/">
+						<img class="menuAOE" style="margin-right:8px" src="/images/v4.5/topnav/new/living.gif" width=39 height=10 border=0 alt="Living" onmouseover="window.FW_showMenu(window.fw_menu_4,493,navMenuY);" onmouseout="FW_startTimeout();" /></a>
+
+						<img src="/images/v4.5/topnav/new/separator.gif" width="2" height="10" style="margin:12px 8px 0 0" />
+
+						<a href="/classifieds/design1_index.html">
+						<img class="menuAOE" src="/images/v4.5/topnav/new/shop.gif" width=34 height=10 border=0 alt="Marketplace" onmouseover="window.FW_showMenu(window.fw_menu_5,557,navMenuY);" onmouseout="FW_startTimeout();" /></a>
+
+						<a href="/rd/placead.html" >
+						<img class="menuAOE" src="/images/v4.5/topnav/new/place-an-ad2.gif" width="81" height="10" border="0" alt="Place a classified ad" style="margin-right:72px" /></a>
+
+						</nobr>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script type="text/javascript">
+
+		function addJobsButton () {
+			var a = document.createElement('A');
+			a.href="/rd/jobs.html";
+			a.style.display = 'block';
+			a.style.position = 'absolute';
+			a.style.width = '49px';
+			a.style.height = '42px';
+			a.style.left = '707px';
+			a.innerHTML = '<img id="menu-jobs-button" class="menuAOE" src="/images/v4.5/topnav/new/jobs-inside.gif" width="49" height="42" border="0" alt="Jobs" />';
+			var t;
+			document.getElementsByTagName('body')[0].appendChild(a);
+			if ( (typeof show_breaking_news != 'undefined') && (show_breaking_news == true ) ) {
+				t = 195;
+			} else {
+				t = 161;
+			}
+			if (browser.ie6==true) {
+				t = t + 1;
+			}
+			a.style.top = t + 'px';
+		}
+
+		window.onload = addJobsButton;
+
+	</script>
+
+
+		<div id="section_nav">
+			<div id="trail">
+				<script language="javascript">
+					breadCrumbs = ["News|/news/", "Obituaries|/obits/"];
+					breadcrumbTrail();
+				</script>
+			</div>
+			<div id="site_tools">
+				<script language="javascript">
+					siteTools();
+				</script>
+			</div>
+			<div style="clear:both"></div>
+		</div>
+
+		<div id="story">
+
+			<!-- SITEWEAVER CONTENT STARTS HERE -->
+			
+<!--<MCC PUBDATE>090104</MCC PUBDATE>
+
+<MCC SECTION>obits</MCC SECTION>
+
+<MCC PRIORITY>28</MCC PRIORITY>
+
+<MCC SUBPRIORITY></MCC SUBPRIORITY>
+
+<MCC DATE>
+
+</MCC DATE>
+</div><p>
+
+<MCC PUBNAME>!!PUBLICATION NAME!!</MCC PUBNAME>
+ <MCC DIGEST><P></P></MCC DIGEST>
+<MCC KEYWORDS></MCC KEYWORDS>-->
+
+<script language="javascript">
+
+  	var storyImages = new Array;
+ 	var storyPubDate = "2004/09/01";
+ 	var storySection = "obits";
+ 	var storyImageIndex = 0;
+
+storyImages[0] = ["4289329_1", "", "Mrs. Kimberly Lane Weathers&nbsp;&nbsp;&nbsp;&nbsp;(MARTINEZ, Ga.)"];
+</script>
+
+<div id="story_header">
+
+     <div id="hed"><MCC HEAD>Mrs. Kimberly Lane Weathers&nbsp;&nbsp;&nbsp;&nbsp;(MARTINEZ, Ga.)</MCC HEAD></div>
+
+     <div id="deck"><MCC SUBHEAD>Medical Transcriptionist</MCC SUBHEAD></div>
+
+     <div id="byline">
+          <span class="writer"><MCC BYLINE1></MCC BYLINE1></span><span class="designation"><MCC BYLINE2></MCC BYLINE2></span>
+     </div>
+
+     <div id="story_tools">
+          <div class="timestamp"><MCC TIME>Wednesday, September 01, 2004</MCC TIME></div>
+          <div class="tools">
+               <script language="javascript">
+                    storyTools();
+               </script>
+          </div>
+          <div style="clear:both"></div>
+     </div>
+
+</div>
+<div id="story_body">
+
+<MCC STORY>
+<p>MARTINEZ, Ga.- Mrs. Kimberly Lane Weathers was called home to be with her Lord and Saviour Jesus Christ on August 30, 2004. A memorial service will be held Friday, September 3, 2004 at 7 p.m. in the Thomas L. King Funeral Home Chapel with Rev. Roger Bennett officiating. Mrs. Weathers was born in Columbus, Ohio. She was employed as a medical transcriptionist at the Medical College of Georgia and was a member of Overcomers Outreach Center. She also was a member of The International Poet Society. Her family said she was a very loving mother, daughter and sister. She is survived by two sons, Miles Rosser and Bo Rosser of Martinez, a daughter, Angie M. Rosser, Martinez, her parents, William F. Weathers and Gerry Weather, Martinez, three brothers, David W. Weathers, Gerald Scott Weathers and Jeffery A. Weathers, two sisters, Lisa M. Weathers and Barbara Haselden. The family will receive friends at the funeral home Friday from 5 p.m. until the time of service. Thomas L. King Funeral Home, 124 Davis Rd., Martinez, Ga. 863-6747. Sign the guestbook at AugustaChronicle.com	<script language="javascript">
+ 		storyPhotos();
+ 	</script>
+
+
+
+<p>The Augusta Chronicle Septmeber 1, 2004</p>
+<P></P></MCC STORY>
+
+     <div id="origin">
+          From the Wednesday, September 01, 2004 edition of the Augusta Chronicle
+     </div>
+
+
+
+
+<!--
+<script type="text/javascript">showYahooAds();</script>
+<div style="color: #898989; font-family: arial; font-size: 12px; text-align: center; width: 100%; padding-bottom: 3px;">advertisement</div>
+	<script type="text/javascript" src="http://cm.npc-morris.overture.com/partner/js/ypn.js"></script>
+</div>
+-->
+</div>
+			<!-- SITEWEAVER CONTENT ENDS HERE -->
+
+<!-- Begin story/section pagination -->
+
+            <div id="storyNavigation" style="margin:15px;">
+
+            </div>
+
+            <script src="/includes/v4.5/generated/daily_stories.txt"></script>
+
+<!-- End story/section pagination -->
+			
+		</div>
+
+		<div id="widerail">
+
+	<div class="interior">
+
+<!--
+		<div style="margin-bottom:12px">
+			<a href="/JamesBrown/"><img src="/JamesBrown/images/life-of-soul-rail.jpg" width="300" height="52" style="border:1px solid #F9F8F7" /><a/>
+		</div>
+
+-->
+
+<!-- BEGIN POTTER PROMO -->
+
+<!--
+
+		<style>
+			#holidaybox {border:1px solid #A09E9C;margin-bottom:12px;}
+			#holidaybox .hidden {display:none}
+		</style>
+
+		<div id="holidaybox">
+
+			<div style="background-color:#F9F8F7;padding:12px;">
+
+				<a href="http://blogs.augusta.com/node/984"><img src="/images/v4/misc/potter_60.jpg" width="60" height="91" style="border:1px solid #BFBEBD;float:left;margin:0 12px 0 0;" /></a>
+
+				<a style="font-size:18px;font-weight:bold;display:block;margin:0 0 3px 0" href="http://blogs.augusta.com/node/984">Finished?</a>
+				<div>
+					If you've reached the end, share your thoughts on Harry Potter's final adventure.
+				</div>
+
+				<div style="clear:both"></div>
+
+			</div>
+
+		</div>
+
+-->
+
+<!-- END POTTER PROMO -->
+
+		
+<script type="text/javascript">
+	function toggleTodayTab (id) {
+		if (id == "discussed") {
+			document.getElementById('today-tab-discussed').src = '/images/v4.5/story/todaybox/tab-discussed-on.gif';
+			document.getElementById('today-tab-emailed').src = '/images/v4.5/story/todaybox/tab-emailed-off.gif';
+			document.getElementById('today-content-discussed').style.display = 'block';
+			document.getElementById('today-content-emailed').style.display = 'none';
+		} else if (id == "emailed") {
+			document.getElementById('today-tab-emailed').src = '/images/v4.5/story/todaybox/tab-emailed-on.gif';
+			document.getElementById('today-tab-discussed').src = '/images/v4.5/story/todaybox/tab-discussed-off.gif';
+			document.getElementById('today-content-emailed').style.display = 'block';
+			document.getElementById('today-content-discussed').style.display = 'none';
+		}
+	}
+
+	function toggleEmailed (id) {
+		if (id == "past7") {
+			document.getElementById("past7").className="currentTab";
+			document.getElementById("past24").className="";
+			document.getElementById("todayTab_past7").className = "";
+			document.getElementById("todayTab_past24").className = "hidden";
+		} else if (id == "past24") {
+			document.getElementById("past24").className="currentTab";
+			document.getElementById("past7").className="";
+			document.getElementById("todayTab_past24").className = "";
+			document.getElementById("todayTab_past7").className = "hidden";
+		}
+	}
+	// The Central Randomizer 1.3 (C) 1997 by Paul Houle (houle@msc.cornell.edu)
+	// See:  http://www.msc.cornell.edu/~houle/javascript/randomizer.html
+	cRnd.today=new Date();
+	cRnd.seed=cRnd.today.getTime();
+	function cRnd() {
+		cRnd.seed = (cRnd.seed*9301+49297) % 233280;
+		return cRnd.seed/(233280.0);
+	};
+	function cRand(number) {
+		return Math.ceil(cRnd()*number);
+	};
+	// end central randomizer. -->
+	function randomizeTodayTab () {
+		var r = cRand(10);
+		if (r <= 6){
+			toggleTodayTab('discussed');
+		} else {
+			toggleTodayTab('emailed');
+		}
+	}
+
+</script>
+
+<style>
+	#todaybox2 ol, ul {padding:0 0 0 0;margin:0 0 0 24px;}
+	#todaybox2 li {margin:5px 0 5px 0;font-size:12px;font-weight:bold}
+	#todaybox2 .hidden {display:none}
+	/*IE*/
+	* html ol {margin-left:30px;}
+	* html li {margin-left:12px}
+	* html li a {}
+	#sentTabs .currentTab {text-decoration:none;cursor:default;color:black;font-weight:bold;}
+	#sentTabs a {font-size:12px;}
+	#sentTabs {margin:0 0 6px 0;}
+	#todaybox2 {width:300px;overflow:hidden;}
+	#todaybox2 .today-interior {border:1px solid #B1ABA1;border-top:none;background-color:#F9F8F7;}
+	#today-tabs {background:url(/images/v4.5/story/todaybox/tab-bkg.gif);background-position:0 18px;background-repeat:repeat-x;width:300px;height:19px;overflow:hidden;padding:0;}
+
+</style>
+
+<div id="todaybox-container" style="display:none">
+
+	<div id="today-tabs"><a href="javascript:void(0);" style="cursor:default" onmouseover="toggleTodayTab('discussed')"><img id="today-tab-discussed" src="/images/v4.5/story/todaybox/tab-discussed-on.gif" width="118" height="19" style="border:none;margin:0" /></a> <a href="javascript:void(0);" style="cursor:default" onmouseover="toggleTodayTab('emailed')"><img id="today-tab-emailed" src="/images/v4.5/story/todaybox/tab-emailed-off.gif" width="118" height="19" style="border:none;margin:0" /></a></div>
+
+	<div id="todaybox2">
+		
+		<div class="today-interior" >
+
+			<div style="width:282px;overflow:hidden;margin-left:12px;">
+
+				<div id="today-content-discussed" style="padding:10px 0 10px 0" >
+
+					<style>
+	body {font-family:arial;font-size:12px;}
+	.story-list-preview {padding:6px;font-size:10px;background-color:#efefef;color:#333;border:1px solid #aaa;border-top:1px solid #ccc;border-left:1px solid #ccc}
+	.story-list-comments-count {color:#6A7467;font-size:11px;font-weight:normal}
+</style>
+<div style="width:300px">
+
+<ol>
+
+</ol>
+</div>
+
+
+					<div style="padding:5px 0 0 0;font-size:10px;">
+						<a href="/find/popular.shtml#discussed"><img src="/images/v4.5/story/todaybox/complete_list.gif" border=0 alt="View complete list" /></a>
+					</div>
+
+				</div>
+
+				<div id="today-content-emailed" style="padding:10px 0 10px 0;display:none">
+
+					<div id="sentTabs">
+						<a class="currentTab" id="past24" href="javascript:toggleEmailed('past24');" onmouseover="javascript:toggleEmailed('past24');">Past 24 hours</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="past7" href="javascript:toggleEmailed('past7');" onmouseover="javascript:toggleEmailed('past7');">Past 7 days</a>
+					</div>
+
+					<ol id="todayTab_past24">
+					
+					</ol>
+
+					<ol class="hidden" id="todayTab_past7">
+					
+					</ol>
+
+					<div style="padding:8px 0 0 0;font-size:10px;">
+						<a href="/find/popular.shtml#email24"><img src="/images/v4.5/story/todaybox/complete_list.gif" border=0 alt="View complete list" /></a>
+					</div>
+
+
+				</div>
+				
+			</div>
+
+		</div>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+	randomizeTodayTab();
+	document.getElementById('todaybox-container').style.display = 'block';
+</script>
+
+		<!--include VIRTUAL="/includes/v4.5/story/todaybox_emailed.shtml" -->
+
+		<!--include VIRTUAL="/includes/v4.5/story/todaybox.shtml" -->
+
+		<!--include VIRTUAL="/includes/v4/bidnuts/item_promo.html" -->
+
+
+		<div style="height:12px"></div>
+
+<!--
+		<div style="margin:0 0 2px 0" class="adlabel">advertisement</div>
+
+		<script>
+			drawAuctionPromo3();
+		</script>
+
+		<div style="height:12px;overflow:hidden"></div>
+
+-->
+
+		<div class="adlabel">advertisement</div>
+
+		<script language="javascript">
+		//<!--
+			augAd.drawAd('Middle1');
+		//-->
+		</script>				
+
+		<!-- 
+			<img src="/images/v4.5/fakeads/300x250_vonage.gif" width=300 height=250 border=0 /><br>
+		-->
+
+		<br>
+
+		<div class="adlabel">TopJobs</div>
+		<style>
+
+/*
+	#topjobs_instory {border-bottom:1px solid #BCB6A7}
+	#topjobs_instory .area {background-image:url('/images/v4.5/topjobs/story/areaheader_bkg.gif');background-repeat:repeat-x;height:16px;overflow:hidden;color:white;font-size:11px;font-weight:bold;text-align:center;width:298px;margin-left:1px}
+	#topjobs_instory .all_jobs {text-align:center;font-size:11px;font-weight:bold;padding:6px}
+	#topjobs_instory .job {background-color:white;width:298px;overflow:hidden;margin:0 1px 1px 1px;background-color:#fafaf5}
+	#topjobs_instory .job_int {padding:6px 4px 6px 10px;font-size:11px;color:#222222;}
+*/
+
+	#topjobs_instory {border-bottom:1px solid #BCB6A7}
+	#topjobs_instory .area {height:16px;overflow:hidden;color:white;font-size:11px;font-weight:bold;text-align:center;width:298px;margin-left:1px;background-color:#222222}
+	#topjobs_instory .all_jobs {text-align:center;font-size:11px;font-weight:bold;padding:6px}
+	#topjobs_instory .job {width:298px;overflow:hidden;margin:0 1px 1px 1px;background-color:#f2f7f9}
+	#topjobs_instory .job_int {padding:6px 4px 6px 10px;font-size:11px;color:#222222;}
+
+</style>
+
+<div id="topjobs_instory">
+
+	<div style="width:300px;height:100px;overflow:hidden;background-image:url('/images/v4.5/topjobs/story/top_bkg_2.jpg');background-repeat:no-repeat;">
+
+		<a href="http://www.augustahotjobs.com/" alt="Augusta Jobs" title="Click to browse all Augusta jobs" ><img src="/images/v4.5/topjobs/story/1px_blank.gif" width=300 height=71 border=0 /></a><br>
+			
+			<div style="text-align:right;padding:4px 6px 0 0">
+				<form id="jsearchfrm" name="jsearchfrm" action="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html" method="get" style="padding:0px;">
+				<input type="hidden" name="partner" value="augusta" />
+				<input type="hidden" name="ulm_input1" value="Augusta, GA" />
+				<input name="keywords_all" type=text maxlength=256 style="width:157px;height:20px;border:1px solid #6f6f6a;" /> <input type=image src="/images/v4.5/topjobs/story/btn_go_2.gif" width=22 height=20 value="Go" align=top onclick="document.getElementById('jsearchfrm').submit();" /><br>
+				</form>
+			</div>
+	</div>
+	
+	<div style="background-color:#BCB6A7;">
+		<div class="area">
+			Augusta-area Top Jobs<br>
+		</div>
+			<div class="job">
+				<div class="job_int">
+					Warehouse  ~TRAINEES~   Call (706)868-6800  Run  FORKLIFT  to load, sort & store pallets. FULL TIME! Permanent Position with Columbia County Co. Pro Resources $190 J#3414 GREAT BENEFITS!  $10.00-13.00... (<a href="http://classifieds.augustachronicle.com/classifieds-bin/classifieds?ad_id=43754076&tid=126323" target="topjob" onclick="window.open('','topjob','width=345,height=300,scrollbars,toolbar=yes')">more</a>)
+				</div>
+			</div>
+			<div class="job">
+				<div class="job_int">
+					Healthcare Facility Hiring  MEDICAL INSPECTION  $-13 | hr + Full Benefits Pkg. >ENTRY LEVEL< Call us at 706.868.6800 Inspect, clean & assemble medical instruments. Pro Resources $190 J#236 FULL TIME, Pe... (<a href="http://classifieds.augustachronicle.com/classifieds-bin/classifieds?ad_id=43754083&tid=126323" target="topjob" onclick="window.open('','topjob','width=345,height=300,scrollbars,toolbar=yes')">more</a>)
+				</div>
+			</div>
+			<div class="job">
+				<div class="job_int">
+					Armed Security  Guard Duty $-12 | hr   Call 706.868.6800  Conduct armed loot and vehicle patrol (interior & exterior), control access, monitor CCTV and alarm systems.  >>Full Time!<<  Pro Resources $190... (<a href="http://classifieds.augustachronicle.com/classifieds-bin/classifieds?ad_id=43754069&tid=126323" target="topjob" onclick="window.open('','topjob','width=345,height=300,scrollbars,toolbar=yes')">more</a>)
+						<div class="all_jobs">
+							<a href="/includes/v4.5/topjobs/full_list.html" target="topjob" onclick="window.open('','topjob','width=440,height=450,scrollbars,toolbar=yes')">View all Augusta TopJobs</a>
+						</div>
+				</div>
+			</div>
+
+
+	</div>
+</div>
+
+
+		
+		<!--include VIRTUAL="/includes/v4/yellow-advantage/story.html" -->
+
+	</div>
+	
+</div>
+
+
+		<div style="clear:both;"></div>
+
+			
+	<div id="boilerplate">
+		<div class="interior">
+			<!-- footer ad -->
+			<SCRIPT LANGUAGE=JavaScript>
+			//<!--
+				augAd.drawAd('x08');
+			//-->
+			</SCRIPT>
+			<!-- /footer ad -->
+			<br><br>
+			&copy; 2010 The Augusta Chronicle<span class="sep">|</span><a href="http://chronicle.augusta.com/tos/">Terms of service</a><span class="sep">|</span><a href="http://chronicle.augusta.com/privacy/#affiliates">About our ads</a><span class="sep">|</span><a href="http://chronicle.augusta.com/faq/">Help</a><span class="sep">|</span><a href="http://chronicle.augusta.com/feedback/webmaster_form.shtml">Contact us</a><span class="sep">|</span><a href="http://chronicle.augusta.com/subscribe/">Subscribe</a><span class="sep">|</span><a href="http://profiles.augusta.com">Local business listings</a><br>
+			<br>
+			<br>
+		</div>
+	</div>
+
+
+	</div>
+
+</div>
+
+
+	
+				<style>
+					.body_regular { background-image: url('http://chronicle.augusta.com/DEV/jonathan/chronicle_revamp/images/misc/body_bg.gif');}
+					.body_wide { background-image: url('http://chronicle.augusta.com/DEV/jonathan/chronicle_revamp/images/misc/body_bg.gif'); }
+					.body_wider { background-image: url('http://chronicle.augusta.com/images/v4.5/new_wide_bg.gif'); }
+
+					#far_right_new {
+						position: absolute;
+						width: 200px;
+						top: 0px;
+						left:768px;
+					}
+
+					#skyscraper {margin-left:9px;width:220px;text-align:center}
+
+					#adv-video {margin-left:9px;}
+					#adv-video-interior {margin-left:8px; padding-top:8px;}
+					#adv-video .ad-block {width:160px;padding:6px 6px 0 6px;margin:0 auto 0 auto;}
+					#adv-video .ad-block-wide {padding:6px 6px 0 6px;}
+					#adv-video .adv-promo {padding:5px 5px 5px 21px; background:#fff 7px center url(http://static.augusta.com/site/chronicle/temp/adv-promo-bullet1.gif) no-repeat; border:1px solid #ccc; margin:4px 0 0 0; font-weight:bold; font-size:14px;  }
+
+					#adv-video a {color: #000}
+
+
+					#skyscraper-frame {margin:16px auto 0 auto;width:160px;}
+					#refugee {margin-left:9px;}
+					#refugee-interior {margin:12px 0 0 29px}
+					#powerads-roll {margin-top:12px;width:200px;text-align:center;}
+
+					#shopbox {margin-top:8px;margin-left:9px;}
+					#shopbox img {border:none}
+					#shopbox-interior-ya {width:206px;overflow:hidden;margin-left:7px;margin-top:12px;background-image:url('http://chronicle.augusta.com/images/yellow-advantage/shopbox/shopbox-bkg.gif');background-repeat:repeat-y;}
+					#shopbox-interior-shop {width:206px;overflow:hidden;margin-left:7px;margin-top:12px;background-image:url('http://chronicle.augusta.com/images/yellow-advantage/shopbox/shopbox-bkg.gif');background-repeat:repeat-y;}
+					#shopbox-interior-shop .shopbox-textad-a {background-color:#eaeaea;font-size:12px;text-align:left;padding:3px 0px 3px 1px}
+					#shopbox-interior-shop .shopbox-textad-b {background-color:#fff;font-size:12px;text-align:left;padding:3px 0px 3px 1px}
+					#shopbox-interior-shop .shopbox-textad-a a {display:block;color:#7D4800;text-decoration:none}
+					#shopbox-interior-shop .shopbox-textad-b a {display:block;color:#7D4800;text-decoration:none}
+
+					#ya-promo {margin-top:8px;margin-left:9px;}
+					#ya-promo img {border:none}
+					#ya-promo-interior {width:206px;overflow:hidden;margin-left:7px;margin-top:6px;background-image:url('http://chronicle.augusta.com/images/yellow-advantage/promo/yapromo-rail-bkg-3.gif');background-repeat:repeat-y;}
+					#network-ext {background-color:#333;height:22px;width:221px;overflow:hidden;margin-left:9px}
+					.adv-label-wide {background-image:url('http://chronicle.augusta.com/images/v4.5/rail-label-bkg.gif');width:221px;padding:1px 0 2px 0;overflow:hidden;color:#898989;font-size:11px;text-align:center;margin-top:14px}
+
+				</style>
+
+	<script type="text/javascript" >
+		document.body.className = "body_wider";
+	</script>
+
+	<div id="far_right_new">
+
+		<div id="network-ext">
+			<img src='http://chronicle.augusta.com/images/v4.5/adv-label-wide.gif' width='221' height='23' alt='' />
+		</div>
+
+		<div id="skyscraper">
+
+			<div id="skyscraper-frame">
+				<script type="text/javascript" >
+					augAd.drawAd("Right");
+				</script>
+			</div>
+
+		</div>
+
+		<div id="adv-video">
+
+			<div class="adv-label-wide">advertisement</div>
+
+			<div id="adv-video-interior">
+
+				<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="200" height="180" id="video-showcase" align="middle">
+				<param name="allowScriptAccess" value="sameDomain" />
+				<param name="allowFullScreen" value="false" />
+				<param name="movie" value="http://chronicle.augusta.com/advertisers/video-showcase/video-showcase2.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="http://chronicle.augusta.com/advertisers/video-showcase/video-showcase2.swf" quality="high" bgcolor="#ffffff" width="200" height="180" name="video-showcase" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+				</object>
+
+				<div class="ad-block-wide">
+					<div class="adv-promo" id="adv-promo-deals" >
+						<a href="http://www.augustachronicle.mediawebconnect.com/">50%-Off Certificates</a>
+					</div>
+					<div class="adv-promo" id="adv-promo-shop">
+						<a href="http://www.print2webcorp.com/marketplace/Augustachronicle/main/">Shop Augusta</a>
+					</div>
+					<div class="adv-promo" id="adv-promo-yellow">
+						<a href="http://search.augustashopping.com/mkt/Augusta-Business/local/Directory.aspx">Local businesses</a>
+					</div>
+				</div>
+
+			</div>	
+		
+		</div>
+		
+		<div style="clear:both"></div>
+
+<!--		
+		<div id="refugee">
+		<div class="adv-label-wide">advertisement</div>
+		<div id="refugee-interior">
+			<script type="text/javascript" >
+			augAd.drawAd("Right1");
+			</script>
+		</div>
+	</div>
+-->
+
+	<div id="quigo-ads">
+
+	<div>
+</div>
+
+	
+
+</body>
+</html>

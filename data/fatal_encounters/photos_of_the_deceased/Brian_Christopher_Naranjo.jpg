@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><title>Image Viewer</title><link type="text/css" rel="stylesheet" href='http://extras.mnginteractive.com/live/css/MNGiDefaultStyles.css'><script language="JavaScript" type="text/javascript">
+    	function resizeMe() {
+	        var imagePopUp = document.getElementById("imagePopUp");
+	        if (document.all) {
+	            setClientSizeIE(imagePopUp.scrollWidth + 20, imagePopUp.scrollHeight + 12);
+	        }
+	        window.focus();
+    	}
+    
+    	function setClientSizeIE(W, H) {
+        // it is important to resize the window to the
+        // wanted values first, even if we won't get them.
+        window.resizeTo(W, H);
+    
+        // create the checkpoint element
+        var cp = document.createElement("span");
+        cp.style.position = "absolute";
+        cp.style.width = "0px";
+        cp.style.height = "0px";
+        cp.style.right = "0px";
+        cp.style.bottom = "0px";
+    
+        // we can only read it's position after we
+        // insert it into the document
+        document.body.appendChild(cp);
+    
+        // here we get the actual client size
+        var current_width = cp.offsetLeft;
+        var current_height = cp.offsetTop;
+    
+        // here we find out how much more we need
+        // in order to get to the needed W x H size
+        // (or in other words, we compute the size of
+        // window decorations: border, scroll bars, title)
+        var dw = W - current_width;
+        var dh = H - current_height;
+    
+        // and _finally_ we get what we need
+        window.resizeBy(dw, dh);
+    
+        // we can safely delete the checkpoint now
+        document.body.removeChild(cp);
+      }
+    </script></head><body onload="resizeMe();" style="margin: 5px;"><span id="imagePopUp"><div class="articleImageBox" style="width:220px"><span class="articleImage"><img src="http://extras.mnginteractive.com/live/media/site36/2009/0810/20090810__20090811_B02_CD11FATALSHOOT~p1.JPG" width="220px" height="275px" title="Brian Naranjo " alt="Brian Naranjo " border="0"></span><div class='articleImageCaption' style='width:100%'>Brian Naranjo  ( Richard M. Hackett, Longmont Times-Call  
+    )</div></div></span></body></html>
