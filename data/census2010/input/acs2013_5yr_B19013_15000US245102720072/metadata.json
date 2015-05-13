@@ -1,0 +1,20 @@
+{
+    "release": {
+        "id": "acs2013_5yr",
+        "name": "ACS 2013 5-year",
+        "years": "2009-2013"
+    },
+    "tables": {
+        "B19013": {
+            "title": "Median Household Income in the Past 12 Months (In 2013 Inflation-adjusted Dollars)",
+            "universe": "Households",
+            "denominator_column_id": null,
+            "columns": {
+                "B19013001": {
+                    "name": "Median household income in the past 12 months (in 2013 inflation-adjusted dollars)",
+                    "indent": 0
+                }
+            }
+        }
+    }
+}
